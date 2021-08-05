@@ -1,0 +1,13 @@
+[package]
+name = "snektris"
+version = "0.1.0"
+authors = ["nomodeset <ojkoskinen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+tetra = "0.6.5"
+ndarray = "0.15.3"
+array2d = "0.2.1"
+fastrand = "1.5.0"
